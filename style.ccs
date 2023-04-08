@@ -45,6 +45,7 @@ p img {
 footer {
 background-color: #8fddf2;
 padding: 10px;
+
 }
 footer p {
 background-color: white;
