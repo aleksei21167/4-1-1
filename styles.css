@@ -38,6 +38,7 @@ main p {
     border: 1px solid navy;
     border-radius: 15px;
     background-color: #7A1D00;
+    color: white;
 }
 
 p img {
